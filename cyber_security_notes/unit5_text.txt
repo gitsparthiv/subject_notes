@@ -1,0 +1,858 @@
+
+--- Page 1 ---
+UNIT-V 
+Cyber Ethics and Laws 
+Ethical Issues 
+Computer technology has already taken a key role in the modern era and has become central 
+and essential to major crucial operations in modern society, manufacturing, distribution, 
+transportation, government, defense, education and training, health services, and research and 
+development. The necessity of computers and other handheld devices are likely to increase in 
+the coming days. It has been observed that computer users become vulnerable because of 
+misuse and malfunctions of computers. These create proble ms of computer crimes  like 
+hacking, software theft, the spread of viruses, assault of privacy, dependence on intelligent 
+machines, and stress in the workplace. These create one or more ethical crises for computer 
+professionals and the associated professions. 
+We often blame our computers and such systems for most of our technological problems in 
+the present time. When our phone goes down, power supply disrupts, seizing up air traffic 
+control, or traffic light malfunctions, we think computer systems are respo nsible for these. 
+We even blame computer systems for mistakes by governmental agencies, other utilities, 
+credit-checking bureaus, and even by police forces. Ethical dilemmas that appear before 
+computer users may be summarized as follows: 
+ Copying software, hacking systems, virus attacks, etc., are the new crises in today's 
+society with existing problems like lack of honesty, trust, confidentiality, 
+responsibility, accountability, and fairness. Almost all of us face a combination of 
+such problems while a computer professional encounter all these nowadays.  
+ These acts are treated as crimes providing due credits and accountability to digital 
+data and transactions. Such crimes are sometimes regarded as a victimless crime. But 
+these are not victimless in the true sense. 
+ It is very crucial to provide due access to intellectual property rights of software 
+products and services. These will motivate developers to be creative through awards 
+of necessary incentives. 
+ A pertinent question is - is hacking always wrong? Of c ourse, the act of ethical 
+hacking offers major activities of tracking malicious activities of cyber criminals. 
+ Always, we assign the responsibility of system failure to the responsible authorities 
+from whom we purchase the system and warranty for its effic ient usages. These must 
+also be defined in case of computer system usages too. 
+ The information that we store in our file is either private or public depending on the 
+nature of its information character. The same applies to storing data in the computer 
+database also. It is also to be defined when the data is to be offered as information 
+services and its transformation costs. 
+ The advent of new technologies offered various intelligent systems and smart 
+services. The reliability of these systems is to be charac terized so that we can trust 
+such systems. 
+ The spread of digital technologies may create new health hazards in the workplace. 
+Proper mechanisms need to be defined to handle such hazards. These might also 
+--- Page 2 ---
+create the question of whether organizations should allow their higher management to 
+monitor employee activities. 
+Computer engineers who deal with the design, development, testing, distribution and 
+maintenance of software systems are called software engineers. Society and industry expect 
+professional commitment towards analysis, design, development, testing, and maintenance of 
+software systems from software engineers as respected and committed professionals. 
+Software engineers must abide by the following eight principles in accordance with their 
+commitment to the safety, welfare, and health of the public: 
+ Public: Computer engineers must act in the public interest consistently. 
+ Client and employer:  Software professionals must act in the best interests of their 
+clients and employer in the public interest. 
+ Product: Software engineers must guarantee that their products, services, and 
+associated modifications meet the best professional standards possible. 
+ Judgment: Software engineers shall maintain integrity and independence in their 
+professional judgment. 
+ Management: Software project managers and leaders have to subscribe and promote 
+an ethical approach to the management of software product development and 
+maintenance. 
+ Profession: Software developers have to maintain the reputation and integrity of the 
+profession in the public interest. 
+ Colleagues: Software professionals have to be fair and helpful to their colleagues. 
+ Self: Computer professionals have to participate in lifelong learning and will promote 
+an ethical approach to the practice of the profession. 
+Information forms the intellectual capital  for a person. Where usage and availability of 
+information are concerned, the following ethical issues may arise: 
+ Intellectual property rights 
+ Plagiarism 
+ Digital property rights 
+ 
+ 
+Intellectual Property Rights 
+Intellectual Property (IP) is the property created by an individual or a group of individuals 
+using their own intellect for ultimate use in commerce. This property is not available in the 
+public domain till its official declaration and registration. Exampl es of intellectual property 
+can be a symbol, a word, or a logo, etc., an invention relating to a product or any process, a 
+new design, a literary or artistic work, or a trademark. 
+Intellectual Property Rights  (IPR) is the statutory right granted by the gov ernment to the 
+owner(s) or inventor(s) of the intellectual property. IPR includes copyright, trademarks, 
+industrial design rights, patents, etc. This right is given to the application(s) to prohibit others 
+from exploiting the IP commercially in lieu of the  disclosure of his/her IP in the IPR 
+application for a given period of time. It allows IPR owner(s) to make a profit from their 
+invented material(s). Thus it encourages creativity and innovation. 
+ 
+--- Page 3 ---
+Need of IPR protection 
+Intellectual property is treated as an asset that can be used by the owner to gain commercially 
+and in any manner he wants. The owner wants to stop others from manufacturing and selling 
+the same or similar products and services that s/he has invented and protected by the IPR. 
+S/he may also l ike to sell or license the IP to some companies or organizations for 
+commercial gains. Intellectual property can also be used to establish the brand value and 
+goodwill in the market for the inventor and the organizations. Certificates are given to the 
+owner of the intellectual property after a search by the government authority dealing with 
+IPR. It also shows the creators‟ competence in innovations in the field. This certificate also 
+establishes the valid and legal right about the intellectual property that  the inventor(s) has 
+created. 
+Legal Framework Types of IPRs 
+IPRs are protected in accordance with the provisions of the legal framework and existing 
+legislations of a country. Following are the acts in India which offer the legal framework for 
+IPR: 
+ The Copyright Act, 1957. 
+ The Trade Mark Act, 1999. 
+ The Geographical Indications of Goods Act, 1999. 
+ The Patent Act, 1970. 
+ The Designs Act, 2000. 
+ Protection of Integrated Circuits Layout and Designs Act, 2000. 
+ Protection of Plant Varieties and Farmers Rights Act, 2001, and also Trade Secret. 
+There are various types of IPRs internationally and in India like patents, trade marks, design, 
+geographical indications, and copyright. These are briefly presented in the following table. 
+Types of IPRs 
+ 
+Sl. 
+No. 
+IPR Types Purpose Corresponding Act 
+1 Patent To protect technologies The Patent Act 
+2 Trade Mark To protect words, signs, logos, 
+labels 
+The Trade Mark Act 
+3 Design To protect outer ornamental 
+configuration 
+The Designs Act 
+4 Geographical 
+Indications 
+To protect region-specific product The Geographical 
+Indications of Goods 
+Act 
+5 Copyright To protect literary and artistic work The Copyright Act 
+ 
+Plagiarism 
+The word ‘plagiarism’ was derived from the Latin word ‘plagiare’. ‘P lagiare’ in the Latin 
+language means to abduct or kidnap. Plagiarism is “the act of presenting the words, ideas, 
+--- Page 4 ---
+images, sounds, or the creative expression of others as it is your creation or your own” . It is 
+very significant to understand the importance of plagiarism with respect to academics a nd 
+creativity. Plagiarism is the stealing of intellectual property of other creators. It is also 
+considered as cheating and unethical activities. Normally these illegal activities are treated 
+as academic theft and thus come under academic offenses. 
+There a re two types of plagiarism - intentional and unintentional. Copying others’ work, 
+cut-paste from electronic resources , borrowing assignments, and d ownloading text from 
+the internet, and presenting it as our own work  are examples of intentional plagiarism . If 
+we do not acknowledge through proper paraphrasing, summarizing , and quotation , then 
+that becomes unintentional plagiarism. C areless copying from electronic databases, quoting 
+excessively, and f ailure to use our own words are also examples of unintention al 
+plagiarism. 
+Using our own ideas and developing our own writing skills is the best way to avoid 
+plagiarism. If these are not essentially possible, we must cite the sources. That means, we 
+must acknowledge the sources  when someone else's ideas are used . We have to explicitly 
+tell our readers where the ideas are derived from. Rewriting others’ ideas in our own words 
+can also solve the problem. While we need to write about a topic from some sources, we 
+have to take careful notes from the sources and write in our own words on the topic. 
+ 
+Digital Rights Management 
+Digital rights management (DRM) is a scheme to control copyrighted material access using 
+technological aids. Here, we should apply digital technologies so that copyrighted materials 
+remain in the rea d-only mode and copying of the same could be restricted. DRM includes 
+some computer instructions (or codes) that restrict copying or limit the number of accessing 
+digital products or services. Encryption-decryption schemes may also be used to allow access 
+of copyrighted materials like software, e -books, data, digital content, etc. to the intended 
+licensed users. The license should be provided with encryption keys and users who have 
+decryption keys will be able to access the digital materials. 
+There are many  ways to protect our digital materials such as software, content, and other 
+services. We may restrict a user from saving, editing, sharing the digital materials. We may 
+also restrict the printing of some artworks or documents for a limited number of times.  It is 
+also possible to disable or restrict the screenshot capture facilities of the computer. If we set 
+an expiry date of our digital products and services, then these will not be opened or accessible 
+after that fixed time. Such setting of the expiry date  for the digital materials will be another 
+option for DRM. These restrictions may be imposed based on the IP address or MAC address 
+of our digital devices. Incorporating watermark artworks is another way to establish 
+ownership and identity of the innovation or creator of the digital products and services. 
+--- Page 5 ---
+DRM is facing great challenges nowadays. It is a common fact that everybody is not in 
+agreement upon digital rights management. For example, when we pay for music on a 
+specific device or app, we may wish to be able to play it on any other devices or apps that we 
+love. But often DRM does not permit such freedom. 
+There are a number of benefits of DRM. DRM ensures ownership of the authors of their 
+digital products and services in addition to a guarantee of inc ome streams from their creative 
+works. These will motivate others to be creative or innovative that will definitely elevate 
+human civilization through technological progress. DRM also assists us to secure our digital 
+repositories and keep them private and safe. It offers better ways for licensing agreements 
+and technological distributions. It also teaches digital practitioners about IPR and copyright 
+issues. 
+ 
+ 
+Licensing: Creative Commons, GPL and Apache 
+A license is a legal document that provides binding (or agreement) guidelines  to the 
+individual(s) or organization(s) as per law regarding the distribution of some products or 
+services. Software is also a product that offers various services and hence, comes under the 
+umbrella of licensing for its distribut ion. Software licensing provides the right to make 
+multiple copies of the software without violating copyrights to the end -users. It also 
+characterizes the responsibilities of the parties entering into the license agreement. It may 
+enforce restrictions on how the software will be used. The restrictions include terms and 
+conditions on fair use, protections, limitations, warranties, and disclaimers. 
+There are many benefits of software licensing. The right software license can save our money 
+by using unlicense d software against the law. We can avail of round -the-clock maintenance 
+support against the license for which we have paid. We can claim damages according to the 
+agreement in case any such event arises. The license offers a feel -good and confidence while 
+having such copy compared to the situation of using pirated software copies.  
+There are three systems of software licensing platforms mostly used in the present time, 
+namely, Creative Commons (CC), General Public License (GPL), and Apache. These are 
+presented briefly here. 
+ 
+Creative Commons (CC):  It is an internationally active non -profit organization. This 
+organization provides free licenses for the inventors or creators to make use of it when 
+making their work available to the public in advance under certa in conditions. When an 
+article is written or a picture is captured, these digital documents or materials are 
+automatically protected by copyright. Such protection restricts others from using these 
+materials in their own way like putting them online. The cr eator can select how they want 
+others to use the work under this license agreement. Users know what they can and can‟t do 
+when the work creator publishes his/her work under CC license. Users can use the work if 
+s/he gets permission from the creator only. Interestingly, CC licenses enable works to be used 
+for education purposes by anyone or an organization without financial profits. Hence, 
+teachers and students can freely copy, share and sometimes modify a CC work without 
+having the permission of the creator. 
+--- Page 6 ---
+Advantages of CC license include creators‟ work will be freely available, shareable, and 
+usable online as per permissions applied on creative work. If permission is given, then 
+additional improvement in creative work including open -source code is possibl e. CC 
+licensing regime also ensures protection of the original copyright of the creator who can 
+modify it within the clauses of the license. 
+One of the disadvantages of a CC license is we cannot revoke a CC license once given. 
+Subsequent usages can be moni tored later only in this regime. We can‟t ask for a license fee 
+or compensation if one makes a profit from our work provided we have not provided a non -
+commercial license. There is an ambiguity in the copyright of derived works and hence, we 
+must be careful before attaching a CC license to our work. 
+ 
+General Public License (GNU -GPL): It is the most commonly used free software license. 
+GPL was introduced by Richard Stallman in 1989 of the Free Software Foundation for GNU 
+(internationally acclaimed open -source OS Linux user groups) project. GPL license 
+agreement permits software to be freely used, modified, and redistributed by anyone. 
+WordPress is an example of software released under the GPL license. Anyone can download, 
+run, modify, redistribute free copies , and distribute modified versions. GPL is based on 
+copyleft (utilizing copyright law for the right to copy, share, modify and improve creative 
+works of authorship) concept which plays on the word copyright. GPL itself is under the 
+copyright ownership of Stallman's GNU funded „Free Software Foundation‟. 
+There are many advantages of publishing software under GPL. The development of software 
+in new areas is possible by regular feedback from the users. Such open source initiatives help 
+the free development of several other open-source software. The developer‟s community can 
+volunteer technical support for these open -source software and thus the cost of software 
+maintenance will be reduced. Software bugs can easily be fixed since the number of people 
+working on them is increasing. Developers get attracted to these open source GPL licensed 
+software as they can try and use it without spending much. 
+The major disadvantage of a GPL license is that a commercial product has to be released as 
+open-source if it incorpora tes GPL licensed products. Thus, if any project uses a GPL 
+licensed component, the whole project has been incorporated in the GPL banner. Because of 
+this reason, major companies set a ban on the use of GPL products. Besides this, many people 
+are not aware of the stringent terms of GPL. 
+ 
+Apache License: Apache Software Foundation (ASF) of Apache Group has introduced the 
+Apache license as a free and open-source software (FOSS) licensing agreement in 1995. This 
+license was initially the same as the old BSD (Be rkeley Software Distribution) covered 
+software license. Apache License v2 was a little more radical departure from the initial 
+version of the license. 
+Apache license allows copy, modification, and distribution of the covered software  in 
+source or binary fo rms. It has the provision of exercising the patent right. All modified or 
+unmodified copies are accompanied by a copy of the license. All modifications are to be 
+clearly marked as the work of the modifier. All notices of copyright, trademark, and patent 
+rights are to be reproduced accurately in distributed copies under this license. 
+ 
+--- Page 7 ---
+Privacy and Privacy Laws 
+Privacy is a fundamental right according to our law. This is highly essential to the autonomy 
+and the protection of human dignity. This serves as the f oundation for many other human 
+rights. Privacy deals with the ability of an individual or organization to determine what data 
+in a computer system can be shared with third parties with respect to information technology. 
+Privacy is very important with respe ct to an individual and organizations. It offers self -
+respect to an individual and also to an organization. Privacy helps us to maintain social 
+boundaries. It enables freedom of thought and speech, and freedom of social and political 
+activities of the pers on to whom the data belongs. Privacy empowers the company to whom 
+the data belongs, to protect privacy. 
+Following are the threats to the privacy of an individual and organizations in today‟s world. 
+ Data collection 
+ Web tracking 
+ Lack of security 
+ Public Wi-Fi 
+ Social networking 
+ Connected everything 
+ Government spying 
+ 
+Privacy laws are regulations that protect a person's or organization‟s data confidentiality. It 
+governs the collection, storage, and release of financial, medical, and other personal 
+information to third parties. Privacy laws are of several types - general privacy laws (overall 
+bearing on the personal information of individual), and specific privacy laws (to regulate 
+specific types of information) such as communication privacy laws, information privacy 
+laws, health privacy laws, financial privacy laws, online privacy laws. 
+ 
+IT-Act 2000 , explained later, deals with the problems relating to the payment of 
+compensation (civil) and punishment (criminal) in case of unlawful disclosure and 
+exploitation of personal data and infringement of contractual terms in respect of perso nal 
+data. 
+Under section 43A of IT-Act, 2000, a corporate body may be held responsible for possessing, 
+dealing, or handling any sensitive personal information. The rules only deal with the 
+protection of sensitive personal data or information of a person, which includes such personal 
+information which consists of information relating to: 
+Financial information (such as bank account or credit card or debit card or other payment 
+instrument details) 
+Passwords 
+Physiological information 
+Physical health conditions 
+Sexual orientation 
+Biometric information 
+Medical records and history 
+--- Page 8 ---
+Under section 72A of the IT -Act, 2000, exposé of information, knowingly and intentionally, 
+without the consent of the person concerned and breach of lawful contract is punishable with 
+imprisonment for a term extending up to 3 years and fine extending up to ₹5L. 
+ 
+IT Act-2000 
+Information Technology Act, 2000 or IT Act-2000 is the act of the Indian Parliament notified 
+on 17 th October, 2000 to provide a legal framework for electronic governance . It provides 
+recognition to electronic records, digital signatures, electronic exchange of data, and 
+electronic commerce transactions . It is the primary law dealing with electronic commerce 
+and cybercrimes in India. The original act contained 94 sections, divided into 4 schedules and 
+19 chapters. This law is inherited from the United Nations Commission for International 
+Trade related Laws (UNCITRAL) model law. The laws, under this act, are applicable to the 
+whole of India. It is applicable to persons of ot her nationalities if the crime involves a 
+computer or network located in India. 
+We can divide the commission of cybercrimes into the following three groups: 
+Types of cybercrimes 
+Against Individual Against Organisation Against Society at Large 
+Hacking/cracking 
+Harassment via emails 
+Cyber stalking 
+Dissemination of obscene 
+material  
+Defamation 
+Hacking/cracking indecent 
+exposure 
+Computer vandalism 
+Transmitting a virus 
+Network trespassing 
+Unauthorized control over 
+computer system 
+Hacking & cracking 
+Possession of unauthorized 
+information 
+Cyber- terrorism against a 
+government organization 
+Distribution of pirated 
+software etc. 
+Pornography 
+Polluting the youth through 
+indecent exposure 
+Trafficking 
+ 
+Some of the important sections under the IT Act-2000 are given below: 
+Important offenses and penalties under the IT Act-2000 
+Sections Offense Penalty 
+67A Publishing images 
+containing sexual acts. 
+Imprisonment up to 7 years, or/and with fine up to 
+₹10L. 
+67B Publishing child porn or 
+predating children online. 
+Imprisonment up to 5 years, or/and with fine up to 
+₹10L on the first conviction. Imprisonment up to 7 
+years, or/and with fine up to ₹10L on second 
+conviction. 
+68 Failure to maintain 
+records. 
+Imprisonment up to 3 years, or/and with a fine. 
+69 Failure/refusal to comply Imprisonment up to 3 years, or/and with fine up to 
+--- Page 9 ---
+with orders. ₹2L. 
+70 Attempting to secure 
+access to a protected 
+system. 
+Imprisonment up to 10 years, or/and with a fine. 
+71 Misrepresentation Imprisonment up to 3  years, or/and with fine up to 
+₹1L. 
+ 
+IT Act, 2000 was amended in December, 2008. Indian parliament passed the act IT 
+(Amendment) Act, 2008 (IT Act 2008) to provide more focus on information security. Cyber 
+terrorism and data protection were incorporated as several additional sections. It came into 
+force on 27th October, 2009. Following are some major amendments in this act: 
+Digital signature gets legal recognition for authentication of digital documents. 
+Legal recognition was awarded to digital documents. Government documents may also be 
+supplied in electronic form. 
+A maximum fine of up to ₹1 Crore may be imposed for any damage to computer and 
+computer systems. 
+Other relevant acts (such as Indian Penal Code – 1860, Indian Evidence Act – 1872, Bankers‟ 
+Book Evidence Act – 1891, Reserve Bank of India Act - 1934) of IT A ct 2008 were also 
+amended to align them with the act. 
+ 
+E-Commerce  
+E-Commerce or Electronic Commerce means buying and selling of goods, products, or services 
+over the internet. E -commerce is also known as electronic commerce or internet commerce. 
+These services provided online over the internet network. Transaction of money, funds, and data 
+are also considered as E -commerce. These business transac tions can be done in four ways: 
+Business to Business (B2B), Business to Customer (B2C), Customer to Customer (C2C), 
+Customer to Business (C2B). The standard definition of E -commerce is a  commercial 
+transaction which is happened over the internet. Online st ores like Amazon, Flipkart, Shopify, 
+Myntra, Ebay, Quikr, Olx are examples of E -commerce websites. By 2020, global retail e -
+commerce can reach up to $27 Trillion. Let us learn in detail about what is the advantages and 
+disadvantages of E-commerce and its types. 
+E-Commerce or Electronic Commerce 
+E-commerce is a popular term for electronic commerce or even internet commerce. The name is 
+self-explanatory, it is the meeting of buyers and sellers on the internet. This involves the 
+transaction of goods and services, the transfer of funds and the exchange of data. 
+So when you log into your Amazon and  purchase a book, this is a classic example of an e -
+commerce transaction. Here you interact with the seller ( Amazon), exchange data in form of 
+pictures, text, address for delivery etc. and then you make the payment. 
+As of now, e-commerce is one of the fastest growing industries in the global economy. As per 
+one estimate, it grows nearly 23% every year. And it is projected to be a $27 trillion industry by 
+the end of this decade. 
+--- Page 10 ---
+Browse more Topics under Emerging Trends In Business 
+ Network Marketing 
+ Franchising 
+ Business Process Outsourcing 
+ Aggregator 
+ Knowledge Process Outsourcing 
+ Digital Economy 
+ M-Commerce 
+Types of E-Commerce Models 
+Electronic commerce can be classified into four main categories. The basis for this simple 
+classification is the parties that are involved in the transactions. So the four basic electronic 
+commerce models are as follows, 
+1. Business to Business 
+This is Business to Business transactions. Here the companies are doing business with each 
+other. The final  consumer is not involved. So the online transactions only involve 
+the manufacturers, wholesalers, retailers etc. 
+2. Business to Consumer 
+Business to Consumer. Here the company will sell their goods and/or services directly to the 
+consumer. The consumer can browse their websites and look at products, pictures, read reviews. 
+Then they place their order and the company ships the goods directly to them. Popular examples 
+are Amazon, Flipkart, Jabong etc. 
+3. Consumer to Consumer 
+Consumer to consumer, where the consumers are in direct contact with each other. No company 
+is involved. It helps people sell their personal goods and assets directly to an interested party. 
+Usually, goods traded are cars, bikes, electronics etc. OLX, Quikr etc follow this model. 
+4. Consumer to Business 
+This is the reverse of B2C, it is a consumer to business. So the consumer pro vides a good or 
+some service to the  company. Say for example an  IT freelancer who demos and sells his 
+software to a company. This would be a C2B transaction. 
+Examples of E-Commerce 
+ Amazon 
+ Flipkart 
+ eBay 
+ Fiverr 
+ Upwork 
+ Olx 
+ Quikr 
+--- Page 11 ---
+Advantages of E-Commerce 
+ E-commerce provides the sellers with a global reach. They remove the barrier of 
+place (geography). Now sellers and buyers can meet in the virtual world, without 
+the hindrance of location. 
+ Electronic commerce will substantially lower the transaction cost. I t eliminates 
+many fixed costs of maintaining brick and mortar shops. This allows the 
+companies to enjoy a much higher margin of profit. 
+ It provides quick delivery of goods with very little effort on part of the 
+customer. Customer complaints are also addres sed quickly. It also saves time, 
+energy and effort for both the consumers and the company. 
+ One other great advantage is the convenience it offers. A customer can shop 24×7. 
+The website is functional at all times, it does not have working hours like a shop. 
+ Electronic commerce also allows the customer and the  business to be in touch 
+directly, without any intermediaries. This allows for quick  communication and 
+transactions. It also gives a valuable personal touch. 
+ 
+Disadvantages of E-Commerce 
+ The start -up costs of the e -commerce portal are very high. The setup of the 
+hardware and the software, the training cost of employees, the constant 
+maintenance and upkeep are all quite expensive. 
+ Although it may seem like a sure thing, the e -commerce industry has a hig h risk 
+of failure. Many companies riding the dot -com wave of the 2000s have failed 
+miserably. The high risk of failure remains even today. 
+ At times, e -commerce can feel impersonal. So it lacks the warmth of an 
+interpersonal relationship which is important for many brands and products. This 
+lack of a personal touch can be a disadvantage for many types of services and 
+products like interior designing or the jewelry business. 
+ Security is another area of concern. Only recently, we have witnessed many 
+security breaches where the information of the customers was stolen. Credit card 
+theft, identity theft etc. remain big concerns with the customers. 
+ Then there are also fulfillment problems. Even after the order is placed there can 
+be problems with shipping, delivery, mix -ups etc. This leaves the customers 
+unhappy and dissatisfied. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+--- Page 12 ---
+E- Commerce and  E-Governance  
+ 
+What is commerce? 
+Commerce is an important part of a business. It is nothing but buying and selling of goods, 
+which means when we buy a product or service to others, and then it is called as commerce. 
+What is E-commerce? 
+E-commerce can be broadly defined as the process of buying and selling of goods or services 
+using an electronic medium such as the Internet. It is also referred as a paperless  exchange of 
+business information using EDI, E-mail, electronic fund transfer, etc. 
+Differences between Traditional commerce and E-commerce 
+Traditional commerce E-commerce 
+It focuses on the exchange of products and 
+services through personal interactions, so it 
+is manual. 
+Trading activities are online via the internet 
+and can be considered automatic. 
+Traditional commerce is limited to business 
+hours i.e. during the day 
+It is 24×7; it can be done anytime day and 
+night. 
+Traditional commerce provides face to  face 
+customer interaction. 
+It can be termed as screen to face 
+interaction. 
+It is limited to a particular geographic 
+location. It is global and has no physical limitation. 
+Modes of payment: cash, cheques and credit 
+cards. 
+Modes of payment: bank transfer,  credit 
+cards, e-wallet, mobile payment and many 
+more. 
+Delivery of goods or services is instant. Delivery of goods or services takes some 
+time. 
+Its scope is local. Its scope is global. 
+ 
+Advantages of E-Commerce 
+ Global scope: It provides the sellers with  a global reach. Now sellers and buyers 
+can meet in the virtual world, without a geographical barrier. 
+ Electronic transaction : E -commerce reduces the paper work and significantly 
+lowers the transaction cost. It enables the use of credit cards, debit cards,  smart 
+cards, electronic fund transfer via bank‟s website and other modes of electronic 
+payment. 
+ Cost saving : E -commerce application provides users with more options to 
+compare and select the cheaper and better option. It helps in reducing services 
+such as healthcare, the cost of searching a product, etc. E -commerce has enabled 
+rural areas to access services and products, which are otherwise not available to 
+them. 
+ Anytime shopping : One other great advantage is the convenience. A customer 
+can shop 24×7. The website is functional at all times; it does not have working 
+hours like a shop. 
+--- Page 13 ---
+ No intermediaries : Electronic commerce also allows the customer and the 
+business to be in touch directly, without any intermediaries. This allows for quick 
+communication and transactions. 
+ Public services: E-commerce helps the government to deliver public e education, 
+social services at a reduced cost and in an improved manner. 
+ 
+Disadvantages of E-Commerce 
+ Setup cost:  The setup of the hardware and the software, the training cost of 
+employees, the constant maintenance and upkeep are all quite expensive 
+ Physical presence: This lack of a personal touch can be a disadvantage for many 
+types of services and products like interior designing or the jewellery business. 
+ Security: Security is another area of concern. Credit card theft, identity theft etc. 
+remain big concerns with the customers. 
+ Goods delivery: There may arrive  some problem with fulfilment of  order. Even 
+after the order is placed  there can be problems with shipping,  delivery, mix-ups 
+etc. This leaves the customers unhappy and dissatisfied 
+ 
+Types of E-Commerce 
+ Business – to – Consumer (B2C ): In B2C model, business sells its products 
+directly to a customer. A customer can view the products shown on the website. 
+The customer can c hoose a product and order the same. The website will then 
+send a notification to the business organization via email and the organization will 
+dispatch the product/ goods to the customer. These B2C businesses are online 
+retailers. Example: Amazon, Flipchart, etc. 
+ Business – to – Business (B2B): In B2B model, business sells its products to an 
+intermediate buyer who then sells the product to the final customer. As an 
+example, a wholesaler places an order from a company‟s website and after 
+receiving the consig nment, sells the product to the final customer who comes to 
+buy the product at one of its retail outlets. Example: Tata communications 
+(network provider). 
+ Consumer – to – Consumer (C2C): In C2C model, consumer helps consumer to 
+sell their assets like resid ential property, cars, motorcycles   , or rent a room by 
+publishing their  information on the website. Website may or may not charge the 
+consumer for its services. Example OLX, Quirk, online auction. 
+ Consumer – to – Business (C2B):  In this model, consumers have products or 
+services of value that can be consumed by businesses. For example, the 
+comparison of interest rates of personal loan/car loan provided by various banks 
+via websites. A business organization that fulfills the consumer‟s requirement 
+within the specified budget approaches the customer and provides its services. For 
+e.g. – A blog can be written by an author for a business to improve sale of 
+products, eBay. 
+ 
+Phases of a trade cycle 
+ Pre-sales 
+ Execution 
+ Settlement 
+ After-sales 
+ 
+ 
+ 
+--- Page 14 ---
+Different modes of payment 
+ Credit cards 
+ Mobile payments 
+ Bank transfers 
+ E-wallets 
+ 
+What is M-commerce? 
+ It is the buying and  selling of goods and services through  wireless handheld 
+devices such as smartphones and tablets. 
+ It enables  users to access online shopping  platforms without needing to use 
+a desktop computer. Some of application  of M -Commerce are mobile 
+banking, ticket booking, E-bill payment, online auctions, stock market trading. 
+ 
+Use of social commerce 
+ Social commerce is a form of electronic commerce that involves social media, 
+online media that supports social interaction. 
+ It enables shoppers to get advice from trusted individuals, find goods and services 
+and then purchase them. 
+ The social networks that spread this advice have been found to increase the 
+customer‟s trust in one retailer over another. 
+ It uses networking websites such as Facebook, Instagram and Twitter as vehicles 
+to promote and sell products and services. 
+ The success of a social commerce campaign is measured by the degree to which 
+consumers interact w ith the company‟s marketing through retweets, likes and 
+shares. 
+ 
+E-Commerce technology- Electronic Data Interchange (EDI) 
+ EDI is the electronic interchange of  business information using a 
+standardized format; a process which allows one  company to send info rmation to 
+another company electronically rather than on paper. 
+ Business entities conducting business electronically are called trading partners. 
+ Many business documents can  be exchanged using EDI; two most  common 
+documents are purchase orders and invoices. 
+ It is computer -to-computer interchange of strictly formatted  documents via 
+telecommunications or physically transported on electronic storage media. 
+ 
+What is E-Governance? 
+ It signifies the implementation  of information technology in the  government 
+processes and functions so  as to cause simple, moral, accountable  and transparent 
+governance. 
+ The basic  purpose of e -governance is to simplify  processes for all, i.e. 
+government, citizens, businesses etc. at National, State and local levels. 
+ Hence, E -governance delivers SMART government. (S - Simple, M -Moral, A -
+Accessible, R-Responsive,  T-Transparent Government) 
+ 
+Advantages of E-Governance 
+ Reduced corruption 
+ High transparency 
+ Increased convenience 
+ Direct participation of constituents 
+--- Page 15 ---
+ Reduction in overall cost. 
+ Expanded reach of government 
+ 
+Types of E-Governance 
+ Government-to-Citizen (G2C) 
+ Government-to-Business (G2B) 
+ Government-to-Government (G2G) 
+ Government-to-Employee (G2E) 
+ 
+Government-to-Citizen E-Governance 
+ This refers to the government services which enable  citizens to get access to wide 
+variety of public services. 
+ Most of the government services fall under G2C. It helps the ordinary people 
+reduce the time and cost to conduct a transaction. 
+ A citizen can have access to the services anytime from anywhere. 
+ Many services like license renewals and  paying tax are essential in G2C.   It also 
+focuses on geographic land barriers. 
+ 
+Government-to-Business (G2B) type E-Governance 
+ The Government to business is the exchange of services between Government and 
+Business organizations. 
+ G2B provides access to relevant forms needed to comply.  
+ The G2B also consists of many  services exchanged between business  sectors and 
+government. 
+ It aims at  eliminating paper work, saving time,  cost and establish transparency 
+in the business environment, while interacting with government. 
+ 
+Government-to-Government (G2G) 
+ The Government -to-Government refers to the interaction between different 
+government departments, organizations and agencies. 
+ In G2G, government agencies can share th e same database using online 
+communication. The government departments can work together. 
+ G2G services can be at the local level or the international level. Likewise, it 
+provides safe and secure inter -relationship between domestic or foreign 
+government. 
+ 
+Government-to-Employee (G2E) 
+ The Government -to-Employee is the internal part of G2G sector. G2E aims to 
+bring employees together and improvise knowledge sharing. 
+ It provides online facilities to the employees like applying for leave, reviewing 
+salary payment record and checking the balance of holiday. 
+ The G2E sector provides human resource training and development. 
+ G2E is also the relationship between employees, government institutions and their 
+management. 
+ 
+Some effective examples of successful implementation of E-Governance projects 
+ e-Mitra project (Rajasthan) 
+ e-Seva project (Andhra Pradesh) 
+ CET (Common Entrance Test) 
+ AADHAAR card 
+--- Page 16 ---
+ DigiLocker 
+ Bharat Bill Payment System 
+ PAN 
+ EPFO services 
+ PMKVY services 
+ 
+Security measures in E-Commerce. 
+ Encryption 
+ Digital signature 
+ Digital certificate 
+  
+What is encryption? 
+Encryption is widely used on the internet to protect user information being sent between a 
+browser and a server. This includes passwords, payment information and other personal 
+information that should be considered private. 
+What are the types of encryption? 
+ Symmetric (Shared Secret Encryption ) 
+ Asymmetric (Public-Key Encryption ) 
+ 
+What is the use of digital signatures? 
+A digital signature is also known as an electronic signature. A digital signature guarantees the 
+authenticity of an electronic document or message in digital communication and uses 
+encryption technique (asymmetric cryptography) to provide proof of original and unmodified 
+documentation. Digital signatures are used in e -commerce, software  distribution, and 
+financial transactions.  This is the direct transfer of information between two partners. 
+What is a digital certificate? 
+A Digital Certificate is an electronic “password” that allows a person or organization to 
+exchange data securely ove r the Internet using the public key infrastructure (PKI). Digital 
+Certificate is also known as a public key certificate or identity certificate.  In this, information 
+is transferred between two authorized partners who have digital certificates issued by so me 
+supreme authority. 
+ 
+Network Layer-IPSec  
+ 
+IP security (IPSec) 
+IP Sec (Internet Protocol Security) is an Internet Engineering Task Force (IETF) standard 
+suite of protocols between two communication points across the IP network that provide data 
+authentication, integrity, and confidentiality. It also defines the encrypted, decrypted, and 
+authenticated packets. The protocols needed for secure key exchange and key management 
+are defined in it. 
+Uses of IP Security 
+IPsec can be used to do the following things: 
+ To encrypt application layer data. 
+ To provide security for routers sending routing data across the public internet. 
+ To provide authentication without encryption , like to authenticate that the data 
+originates from a known sender. 
+--- Page 17 ---
+ To protect network data by setting up circuits using IPsec tunneling in which all 
+data being sent between the two endpoints is encrypted, as with a  Virtual Private 
+Network(VPN) connection. 
+ 
+Components of IP Security 
+It has the following components: 
+1. Encapsulating Security Payload (ESP) 
+2. Authentication Header (AH) 
+3. Internet Key Exchange (IKE) 
+1. Encapsulatin g Security Payload (ESP):  It provides data integrity, encryption, 
+authentication, and anti-replay. It also provides authentication for payload. 
+2. Authentication Header (AH):  It also provides data integrity, authentication, and anti -
+replay and it does not provide encryption. The anti -replay protection protects against the 
+unauthorized transmission of packets. It does not protect data confidentiality. 
+ 
+IP HDR AH TCP DATA 
+IP Header 
+3. Internet Key Exchange (IKE):  It is a network security protocol designed to dynamically 
+exchange encryption keys and find a way over Security Association (SA) between 2 devices. 
+The Security Association (SA) establishes shared security attributes between 2 network 
+entities to support s ecure communication. The Key Management Protocol (ISAKMP) and 
+Internet Security Association provide a framework for authentication and key exchange. 
+ISAKMP tells how the setup of the Security Associations (SAs) and how direct connections 
+between two hosts are using IPsec. Internet Key Exchange (IKE) provides message content 
+protection and also an open frame for implementing standard algorithms such as SHA and 
+MD5. The algorithm‟s IP sec users produce a unique identifier for each packet. This identifier 
+then allows a device to determine whether a packet has been correct or not. Packets that are 
+not authorized are discarded and not given to the receiver.  
+ 
+Packets in Internet Protocol 
+IP Security Architecture 
+IPSec (IP Security) architecture uses two protocols to secure the traffic or data flow. These 
+protocols are ESP (Encapsulation Security Payload) and AH (Authentication Header). IPSec 
+Architecture includes protocols, algorithms, DOI, and Key Management. All these 
+components are very important in order to provide the three main services: 
+ Confidentiality 
+ Authenticity 
+ Integrity 
+
+--- Page 18 ---
+ 
+IP Security Architecture 
+How does IPsec work? 
+IPsec connections include the following steps: 
+Key exchange: Keys are necessary for encryption; a key is a string of random characters that 
+can be used to "lock" (encrypt) and "unlock" (decrypt) messages. IPsec set s up keys with a 
+key exchange between the connected devices, so that each device can decrypt the other 
+device's messages. 
+Packet headers and trailers:  All data that is sent over a network is broken down into 
+smaller pieces called packets. Packets contain b oth a payload, or the actual data being sent, 
+and headers, or information about that data so that computers receiving the packets know 
+what to do with them. IPsec adds several headers to data packets containing authentication 
+and encryption information. IP sec also adds trailers, which go after each packet's payload 
+instead of before. 
+Authentication: IPsec provides authentication for each packet, like a stamp of authenticity 
+on a collectible item. This ensures that packets are from a trusted source and not an attacker. 
+Encryption: IPsec encrypts the payloads within each packet and each packet's IP header 
+(unless transport mode is used instead of tunnel mode ). This keeps data sent over IPsec 
+secure and private. 
+Transmission: Encrypted IPsec packets  travel across one or more networks to their 
+destination using a transport protocol. At this stage, IPsec traffic differs from regular IP 
+traffic in that it most often uses  UDP as its transport protocol, rather than  TCP. TCP, the 
+Transmission Control Protocol, sets up dedicated connections between devices and ensures 
+that all packets arrive. UDP, the User Datagram Protocol, does not set up these dedicated 
+connections. IPsec uses UDP because this allows IPsec packets to get through firewalls. 
+Decryption: At the oth er end of the communication, the packets are decrypted, and 
+applications (e.g. a browser) can now use the delivered data. 
+
+--- Page 19 ---
+ 
+Features of IPSec 
+1. Authentication: IPSec provides authentication of IP packets using digital 
+signatures or shared secrets. This helps ensure that the packets are not tampered 
+with or forged. 
+2. Confidentiality: IPSec provides confidentiality by encrypting IP packets, 
+preventing eavesdropping on the network traffic. 
+3. Integrity: IPSec provides integrity by ensuring that IP packets have not been 
+modified or corrupted during transmission. 
+4. Key management: IPSec provides key management services, including key 
+exchange and key revocation, to ensure that cry ptographic keys are securely 
+managed. 
+5. Tunneling: IPSec supports tunneling, allowing IP packets to be encapsulated 
+within another protocol, such as GRE (Generic Routing Encapsulation) or L2TP 
+(Layer 2 Tunneling Protocol). 
+6. Flexibility: IPSec can be configure d to provide security for a wide range of 
+network topologies, including point -to-point, site -to-site, and remote access 
+connections. 
+7. Interoperability: IPSec is an open standard protocol, which means that it is 
+supported by a wide range of vendors and can b e used in heterogeneous 
+environments. 
+ 
+Advantages of IPSec 
+1. Strong security: IPSec provides strong cryptographic security services that help 
+protect sensitive data and ensure network privacy and integrity. 
+2. Wide compatibility: IPSec is an open standard proto col that is widely supported 
+by vendors and can be used in heterogeneous environments. 
+3. Flexibility: IPSec can be configured to provide security for a wide range of 
+network topologies, including point -to-point, site -to-site, and remote access 
+connections. 
+4. Scalability: IPSec can be used to secure large -scale networks and can be scaled 
+up or down as needed. 
+5. Improved network performance: IPSec can help improve network performance 
+by reducing network congestion and improving network efficiency. 
+ 
+Disadvantages of IPSec 
+1. Configuration complexity: IPSec can be complex to configure and requires 
+specialized knowledge and skills. 
+2. Compatibility issues: IPSec can have compatibility issues with some network 
+devices and applications, which can lead to interoperability problems. 
+3. Performance impact: IPSec can impact network performance due to the 
+overhead of encryption and decryption of IP packets. 
+4. Key management: IPSec requires effective key management to ensure the 
+security of the cryptographic keys used for encryption and authentication. 
+5. Limited protection: IPSec only provides protection for IP traffic, and other 
+protocols such as ICMP, DNS, and routing protocols may still be vulnerable to 
+attacks. 
+ 
